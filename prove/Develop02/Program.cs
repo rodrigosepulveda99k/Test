@@ -92,32 +92,5 @@ class Program
         } while (menuOption >0 && menuOption < 5);
 
 
-            
-
-
-        // do
-        // {
-        //     Entry newEntry = new Entry();
-        //     Console.WriteLine(newEntry._prompt);
-        //     newEntry._response = Console.ReadLine();
-
-        //     journal1.addingNewEntry(newEntry);
-            
-        //     Console.WriteLine("Would you add more information? Y/N");
-        //     String userChoose = Console.ReadLine();
-            
-        //     if (userChoose == "N")
-        //     {
-        //         isPlay = false;
-        //     }
-        // } while (isPlay);
-
-        // journal1.displayAllEntries();
-
-        // Console.WriteLine("Please, enter the filename to saving the infomation: ");
-        // String userFileName = Console.ReadLine();
-
-        // journal1.savingFile(userFileName);
-
     }
 }
